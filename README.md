@@ -53,7 +53,7 @@ I am an **AI & Full Stack Developer** with over 5 years of experience building s
 
 <div align="center">
   <!-- These stats cards use custom colors that perfectly match your portfolio's dark mode aesthetic! -->
-  <img src="https://github-readme-stats.vercel.app/api?username=khmehedihasan&show_icons=true&theme=radium&hide_border=true&bg_color=0f172a&title_color=3b82f6&icon_color=a855f7&text_color=94a3b8" alt="Mehedi's GitHub Stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=khmehedihasan&show_icons=true&theme=radium&hide_border=true&bg_color=0f172a&title_color=3b82f6&icon_color=a855f7&text_color=94a3b8" alt="Mehedi's GitHub Stats" /> -->
   <br/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khmehedihasan&theme=radium&hide_border=true&background=0f172a&ring=3b82f6&fire=a855f7&currStreakNum=ffffff" alt="Mehedi's GitHub Streak" />
